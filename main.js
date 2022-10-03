@@ -34,6 +34,7 @@ dohvatiRase(page);
 
 
 async function ispis(data){
+	console.log(data);
 	divIspis.innerHTML = '';
 	
 
